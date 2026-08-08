@@ -1,0 +1,13 @@
+{
+  "name": "rtb.com.co",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Radio Tape Broadcast website",
+  "main": "site/server.js",
+  "scripts": {
+    "start": "node site/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
